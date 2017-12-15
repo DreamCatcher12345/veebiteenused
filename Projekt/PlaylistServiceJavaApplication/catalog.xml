@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://admin-pc:8080/PlaylistApplication/PlaylistService?wsdl" uri="xml-resources/web-service-references/PlaylistService/wsdl/admin-pc_8080/PlaylistApplication/PlaylistService.wsdl"/>
+</catalog>
